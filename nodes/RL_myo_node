@@ -37,9 +37,11 @@ if __name__ == '__main__':
 
     # args = parser.parse_args()
     
+    #White Myo
     serial_port = "/dev/ttyACM1"
     arm = "RL"
-    addr = [46, 144, 90, 247, 13, 229]
+    addr = [216, 104, 114, 134, 2, 221] 
+    
     
     print('*****')
     print(serial_port)
